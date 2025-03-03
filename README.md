@@ -10,3 +10,4 @@ tint2
 clipmenud
 xautolock
 
+![alt text](https://github.com/dfosterj/bspwm-wip/.images/bspwm.png)
